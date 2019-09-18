@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<title>Document</title>
+		<link
+			href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap"
+			rel="stylesheet"
+		/>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<div id="app">
+			<div id="slides" v-if="slides.length">
+				<div
+					class="rail"
+					:style="{transform: `translateX(${ slidePosition * -100 }%)`}"
+				>
+					<div
+						v-for="slide, slideIndex in slides"
+						class="slide"
+						:class="{zoom: init && slideIndex == slidePosition}"
+						:style="{left: `${slideIndex * 100}%`}"
+					>
+						<img
+							:src="slide.url"
+							:style="{transition: `transform ${interval}ms linear`}"
+						/>
+						<h2>{{ slide.name }}</h2>
+						<h2
+							class="type"
+							:class="slide.type"
+							:style="{background: bgs[slide.type]}"
+						>
+							{{ slide.type }}
+						</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+		<script src="script.js"></script>
+	</body>
+</html>

@@ -1,0 +1,188 @@
+[
+	{
+		"name": "Svartegga",
+		"url": "19H19 Svartegga.jpg",
+		"type": "M"
+	},
+	{
+		"name": "Snota",
+		"url": "19H21 Snota.jpg",
+		"type": "M"
+	},
+	{
+		"name": "Grønberget",
+		"url": "19H23 Grønnberget.jpg",
+		"type": "M"
+	},
+	{
+		"name": "Njunis",
+		"url": "19H24 Njunis.jpg",
+		"type": "M"
+	},
+	{
+		"name": "Sølen",
+		"url": "19H25 Sølen.jpg",
+		"type": "M"
+	},
+	{
+		"name": "Knausen",
+		"url": "19H27 Knausen.jpg",
+		"type": "M"
+	},
+	{
+		"name": "Grinda",
+		"url": "19H28 Grinda.jpg",
+		"type": "M"
+	},
+	{
+		"name": "Lyshornet",
+		"url": "19H29 Lyshornet_kveld.jpg",
+		"type": "M"
+	},
+	{
+		"name": "Marifjell",
+		"url": "19H30 Marifjell.jpg",
+		"type": "M"
+	},
+	{
+		"name": "Nona",
+		"url": "19H31 Nona.jpg",
+		"type": "M"
+	},
+	{
+		"name": "Høgstolen",
+		"url": "19H01 Høgstolen.jpg",
+		"type": "K"
+	},
+	{
+		"name": "Bjørnegga",
+		"url": "19H02 Bjørnegga.jpg",
+		"type": "K"
+	},
+	{
+		"name": "Rondane",
+		"url": "19H04 Rondane.jpg",
+		"type": "K"
+	},
+	{
+		"name": "Midtronden",
+		"url": "19H05 Midtronden.jpg",
+		"type": "K"
+	},
+	{
+		"name": "Grytkollen",
+		"url": "19H06 Grytkollen.jpg",
+		"type": "K"
+	},
+	{
+		"name": "Liskollen",
+		"url": "19H07 Liskollen.jpg",
+		"type": "K"
+	},
+	{
+		"name": "Brenna",
+		"url": "19H32 Brenna.jpg",
+		"type": "K"
+	},
+	{
+		"name": "Høgeloft",
+		"url": "19H08 Høgeloft.jpg",
+		"type": "H"
+	},
+	{
+		"name": "Perletind",
+		"url": "19H09 Perletind.jpg",
+		"type": "H"
+	},
+	{
+		"name": "Falketind",
+		"url": "19H10 Falketind.jpg",
+		"type": "H"
+	},
+	{
+		"name": "Høgronden",
+		"url": "19H11 Høgronden.jpg",
+		"type": "H"
+	},
+	{
+		"name": "Stoleggi",
+		"url": "19H12 Stoleggi.jpg",
+		"type": "H"
+	},
+	{
+		"name": "Blåbergi",
+		"url": "19H13 Blåbergi.jpg",
+		"type": "H"
+	},
+	{
+		"name": "Storebjørn",
+		"url": "19H14 Storebjørn.jpg",
+		"type": "H"
+	},
+	{
+		"name": "Ringstind",
+		"url": "19H03 Ringstind.jpg",
+		"type": "T"
+	},
+	{
+		"name": "Tuva",
+		"url": "19H15 Tuva.jpg",
+		"type": "T"
+	},
+	{
+		"name": "Muen",
+		"url": "19H16 Muen.jpg",
+		"type": "T"
+	},
+	{
+		"name": "Høgtind",
+		"url": "19H17 Høgtind.jpg",
+		"type": "T"
+	},
+	{
+		"name": "Skrim",
+		"url": "19H18 Skrim.jpg",
+		"type": "T"
+	},
+	{
+		"name": "Aksla",
+		"url": "19H33 Aksla.jpg",
+		"type": "T"
+	},
+	{
+		"name": "Dovre",
+		"url": "hytte-dovre.jpg",
+		"type": "Hytte"
+	},
+	{
+		"name": "Hummelfjell",
+		"url": "hytte-hummelfjell.jpg",
+		"type": "Hytte"
+	},
+
+	{
+		"name": "Lista",
+		"url": "hytte-lista.jpg",
+		"type": "Hytte"
+	},
+	{
+		"name": "Ona",
+		"url": "hytte-ona.jpg",
+		"type": "Hytte"
+	},
+	{
+		"name": "Sjåk",
+		"url": "hytte-sjaak.jpg",
+		"type": "Hytte"
+	},
+	{
+		"name": "Kinn",
+		"url": "hytte-kinn.jpg",
+		"type": "Hytte"
+	},
+	{
+		"name": "Møysalen",
+		"url": "hytte-moysalen.jpg",
+		"type": "Hytte"
+	}
+]
